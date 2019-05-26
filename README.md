@@ -8,3 +8,5 @@
      
    - [使用适配器实现](https://github.com/yuanqihang-123/Design-Pattern/tree/master/adapter)
    - [使用适配器加工厂模式实现](https://github.com/yuanqihang-123/Design-Pattern/tree/master/adapter%2Bfactory)
+   
+   - [andriod中的设计模式的分析](https://github.com/yuanqihang-123/Design-Pattern/tree/master/android%E4%B8%AD%E7%9A%84%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E5%88%86%E6%9E%90)
